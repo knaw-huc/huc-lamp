@@ -12,7 +12,7 @@ services:
       TZ: "Europe/Amsterdam"
 
   mariadb:
-    image: mariadb:10.1
+    image: mariadb:10.5
     volumes: 
        - mariavol:/var/lib/mysql
     environment:
