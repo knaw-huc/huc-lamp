@@ -1,5 +1,10 @@
 # README
 
+LAMP stack build in Docker. 
+Only for local development. 
+
+Change provided login-info to something more secure if you bring this in production.
+
 ## Versions
 
 php 7.4 mariadb 10.5
@@ -13,6 +18,8 @@ Go to:
 *    <http://localhost:808/webroot/>
 *    <http://localhost:808/>
 *    <http://localhost:808/adminer.php>
+
+Login Passwords just for local development purposes:
 
 (mariadb, root,rood)
 
