@@ -15,9 +15,9 @@ Startup:  ```docker-compose up -d ``` from root directory.
 
 Go to:
 
-*    <http://localhost:808/webroot/>
-*    <http://localhost:808/>
-*    <http://localhost:808/adminer.php>
+*    <http://localhost/webroot/>
+*    <http://localhost/>
+*    <http://localhost/adminer.php>
 
 Login Passwords just for local development purposes:
 
